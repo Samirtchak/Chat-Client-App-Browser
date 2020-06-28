@@ -12,7 +12,7 @@ Go to the link bellow to install Node.js <br>
 https://nodejs.org/en/download/
 
 Clone this  repository using the terminal run this command <br>
-git clone https://github.com/Samirtchak/Chat-Client-App-Browser.git
+<br>git clone https://github.com/Samirtchak/Chat-Client-App-Browser.git<br>
 
 
 Now you need to install express run the command bellow in your terminal
