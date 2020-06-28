@@ -11,7 +11,9 @@ This is a small chat application in the browser using Socket.io
 Go to the link bellow to install Node.js <br>
 https://nodejs.org/en/download/
 
-Clone this  repository <br>
+Clone this  repository using the terminal run this command <br>
+git clone https://github.com/Samirtchak/Chat-Client-App-Browser.git
+
 
 Now you need to install express run the command bellow in your terminal
 <h4> npm install express --save </h4> 
